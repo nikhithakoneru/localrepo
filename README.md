@@ -1,1 +1,1 @@
-#md meand Markdown
+#md means Markdown
